@@ -1,9 +1,5 @@
-Here's your updated `README.md` in proper **GitHub-friendly markdown** with syntax, formatting, and the **Ollama installation steps** clearly integrated under the `🛠 Installation` and `🧪 Usage` sections:
-
----
-
 ```markdown
-# 🧠 MultiAgent Vision Intelligence
+## 🧠 MultiAgent Vision Intelligence
 
 A modular, multi-agent AI system that uses **LLaVA (Large Language and Vision Assistant)** to process images for **semantic understanding** and **similarity-based retrieval**. This project combines the strengths of vision-language models with autonomous agents to create a scalable, intelligent annotation and search engine.
 
