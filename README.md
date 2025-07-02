@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# 🧠 MultiAgent Vision Intelligence (MAVI)
-
-A modular, multi-agent AI system that uses LLaVA (Large Language and Vision Assistant) to process images for **semantic understanding** and **similarity-based retrieval**. This project combines the strengths of vision-language models with autonomous agents to create a scalable, intelligent annotation and search engine.
-=======
-```markdown
-## 🧠 MultiAgent Vision Intelligence
+## 🧠 MultiAgent Vision Intelligence (MAVI)
 
 A modular, multi-agent AI system that uses **LLaVA (Large Language and Vision Assistant)** to process images for **semantic understanding** and **similarity-based retrieval**. This project combines the strengths of vision-language models with autonomous agents to create a scalable, intelligent annotation and search engine.
->>>>>>> c297aecbb8263b5bc23f4f80f5ea54c60a5dd860
 
 ---
 
@@ -23,35 +16,8 @@ A modular, multi-agent AI system that uses **LLaVA (Large Language and Vision As
 
 ## 🧬 System Architecture
 
-<<<<<<< HEAD
 ![System Architecture](images/architecture.png)
-=======
-```
 
-```
-                ┌────────────┐
-                │  User/API  │
-                └────┬───────┘
-                     ▼
-             ┌──────────────┐
-             │ Controller   │
-             └────┬─────────┘
-                  ▼
-    ┌──────────────────────────────┐
-    │      Multi-Agent Layer       │
-    └────────────┬─────────────────┘
-                 ▼
- ┌──────────────┐  ┌───────────────┐
- │ SemanticAgent│  │ SimilarityAgent│
- └──────────────┘  └────────────────┘
-         │                  │
-     (LLaVA)           (ChromaDB/Embeddings)
-```
-
-````
->>>>>>> c297aecbb8263b5bc23f4f80f5ea54c60a5dd860
-
----
 
 ## 🧱 Components
 
