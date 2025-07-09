@@ -107,5 +107,3 @@ See [LICENSE](LICENSE) for terms.
 
 Contributions, ideas, and improvements are welcome!
 Please open an issue or submit a pull request.
-
-```
