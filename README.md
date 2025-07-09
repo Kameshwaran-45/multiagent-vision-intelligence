@@ -81,7 +81,7 @@ POST /search/similarity
 
 * **FastAPI** – REST API backend
 * **LLaVA** – Vision-language model served locally via Ollama
-* **FAISS / Qdrant** – Similarity search engine
+* **ChromaDB** – Similarity search engine
 * **NumPy, OpenCV, PIL** – Image processing
 * **AutoGen Agents** – Multi-agent orchestration
 
